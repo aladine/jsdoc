@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc",
+  "version": "0.0.0",
+  "description": "Javascript Documentation",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-jsdoc": "^0.5.4",
+    "jsdoc": "^3.3.0-alpha5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LilDan",
+  "license": "ISC"
+}
